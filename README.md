@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20!🥳&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld🥳&fontSize=50&animation=twinkling)
 
 <div align="center">
 
@@ -32,3 +32,5 @@
   </a>
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
