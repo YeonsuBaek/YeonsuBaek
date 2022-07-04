@@ -39,7 +39,7 @@
 <br/>
 
 ### 💡 My Git Stats 💡
-<a href="https://github.com/${깃닉네임}">
+<a href="https://github.com/$yeonsuBaek">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=YeonsuBaek&hide=null&hide_title=false&show_icons=$true&include_all_commits=true&theme=vue" />
 </a>
 <br/>
