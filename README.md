@@ -33,8 +33,8 @@
 
 ### 💡 My Most Used Language 💡
 <a href="https://github.com/YeonsuBaek">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeonsuBaek&layout=compact&show_icons=true&show_owner=YeonsuBaek&hide_title=flase&theme=vue&hide=true" />
-</a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeonsuBaek&layout=compact&show_icons=false&show_owner=YeonsuBaek&hide_title=false&theme=vue&hide=false" />
+  </a>
 <br/>
 <br/>
 
