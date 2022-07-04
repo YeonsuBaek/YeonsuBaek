@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld🥳&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=c1dfc4&height=200&section=header&text=HelloWorld🥳&fontSize=50&animation=twinkling)
 
 <div align="center">
 
@@ -29,8 +29,17 @@
 ### 💡 My Git Stats 💡
 <a href="https://github.com/${깃닉네임}">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=YeonsuBaek&hide=null&hide_title=false&show_icons=$true&include_all_commits=true&theme=vue" />
-  </a>
+</a>
+<br/>
+<br/>
+
+### 📌 My Pins 📌
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=DKwash)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=food-list)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=tomorrow-house)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=QUEENDOM)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=lemonjuicesolutions)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=c1dfc4&height=150&section=footer)
