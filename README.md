@@ -33,15 +33,15 @@
 
 ### 💡 My Most Used Language 💡
 <a href="https://github.com/YeonsuBaek">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeonsuBaek&layout=compact&show_icons=true&show_owner=YeonsuBaek&hide_title=true&theme=vue&hide=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeonsuBaek&layout=compact&show_icons=true&show_owner=YeonsuBaek&hide_title=flase&theme=vue&hide=true" />
 </a>
 <br/>
 <br/>
 
 ### 💡 My Git Stats 💡
-<a href="https://github.com/$yeonsuBaek">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YeonsuBaek&hide=null&hide_title=false&show_icons=$true&include_all_commits=true&theme=vue" />
-</a>
+<a href="https://github.com/YeonsuBaek">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YeonsuBaek&hide=false&hide_title=false&show_icons=false&include_all_commits=true&theme=vue" />
+  </a>
 <br/>
 <br/>
 
