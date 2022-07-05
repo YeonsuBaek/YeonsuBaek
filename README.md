@@ -45,12 +45,11 @@
 <br/>
 <br/>
 
-### 📌 My Pins 📌
+### 📍 My Pins 📍
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=TIL)](https://github.com/YeonsuBaek/TIL)
+<br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=DKwash)](https://github.com/YeonsuBaek/DKwash)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=food-list)](https://github.com/YeonsuBaek/food-list)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=tomorrow-house)](https://github.com/YeonsuBaek/tomorrow-house)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=QUEENDOM)](https://github.com/YeonsuBaek/QUEENDOM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=lemonjuicesolutions)](https://github.com/YeonsuBaek/lemonjuicesolutions)
 <br/>
 <br/>
 
