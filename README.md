@@ -8,6 +8,10 @@
 <a href="mailto:soothbugger@gmil.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=soothbugger)](https://solved.ac/soothbugger)
+<!--<img src="http://mazandi.herokuapp.com/api?handle=soothbugger&theme=warm"/>-->
 <br/>
 <br/>
 
