@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 <br/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=soothbugger)](https://solved.ac/soothbugger)
+<br/>
+<img src="http://mazandi.herokuapp.com/api?handle=soothbugger&theme=cold"/>
 <br/>
 
 ### 📺 Front Tech Stack 📺
