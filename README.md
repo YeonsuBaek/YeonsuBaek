@@ -49,6 +49,7 @@
 <br/>
 <br/>
 
+<!--
 ### 📍 My Pins 📍
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=TIL)](https://github.com/YeonsuBaek/TIL)
 <br/>
@@ -56,6 +57,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=tomorrow-house)](https://github.com/YeonsuBaek/tomorrow-house)
 <br/>
 <br/>
+-->
 
 </div>
 
