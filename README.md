@@ -52,8 +52,8 @@
 <br/>
 
 ### 📍 My Pins 📍
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=your-letter-app)](https://github.com/YeonsuBaek/your-letter-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=weather-forecast)](https://github.com/YeonsuBaek/weather-forecast)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=food-list)](https://github.com/YeonsuBaek/food-list)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=DKwash)](https://github.com/YeonsuBaek/DKwash)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonsuBaek&repo=TIL)](https://github.com/YeonsuBaek/TIL)
 <br/>
