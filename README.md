@@ -1,19 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=c1dfc4&height=200&section=header&text=HelloWorld🥳&fontSize=50&animation=twinkling)
 
 <div align="center">
-    
-<a href="https://velog.io/@yeonsubaek" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-</a>
-<a href="mailto:soothbugger@gmil.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=soothbugger)](https://solved.ac/soothbugger)
-<!--<img src="http://mazandi.herokuapp.com/api?handle=soothbugger&theme=warm"/>-->
-<br/>
-<br/>
 
 ### 📚 Tech Stack 📚
 <p>
@@ -45,12 +33,17 @@
 <br/>
 
 ### 💡 My Git Stats 💡
-<a href="https://github.com/YeonsuBaek">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YeonsuBaek&hide=false&hide_title=false&show_icons=false&include_all_commits=true&theme=vue" />
-  </a>
+![yeonsuBaek's github stats](https://github-readme-stats.vercel.app/api?username=yeonsuBaek&show_icons=true&theme=vue)
 <br/>
 <br/>
 
+### 📝 My Record 📝
+ 
+<a href="https://www.youtube.com/@log_the_summer" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/>
+</a>    
+    
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=yeonsubaek)](https://velog.io/@yeonsubaek)  
 
 </div>
 
