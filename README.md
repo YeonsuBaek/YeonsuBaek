@@ -39,7 +39,7 @@
 <br/>
 
 ### 📝 My Record 📝
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonsubaek)](https://velog.io/yeonsubaek)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonsubaek)](https://velog.io/@yeonsubaek)
 
 <a href="https://www.youtube.com/@log_the_summer" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/>
