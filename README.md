@@ -48,6 +48,6 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/>
 </a>  
 <br/>
-<a href="https://velog.io/@yeonsubaek" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+<a href="https://yeonsu.hashnode.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=Hashnode&logoColor=white"/>
 </a>
